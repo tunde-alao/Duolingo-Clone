@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class AppName extends StatefulWidget {
-  const AppName({super.key});
+class Duolingo extends StatefulWidget {
+  const Duolingo({super.key});
 
   @override
-  State<AppName> createState() => _AppNameState();
+  State<Duolingo> createState() => _DuolingoState();
 }
 
-class _AppNameState extends State<AppName> {
+class _DuolingoState extends State<Duolingo> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
